@@ -11,10 +11,10 @@ Computer Engineering | Cybersecurity Analytics | Embedded Systems | Python / Jav
 - PNDC (Portable Network Defense Console): Raspberry Pi + Arduino hybrid system for real-time packet analysis and control.
 
 🧩 Technical Stack
-Languages: Java, C++, Python, Bash, Assembly (x86/ARM)
-Hardware: Raspberry Pi, Arduino, ESP32, custom PCB prototyping
-Tools: Git, Wireshark, nmap, Ghidra, Linux
-Frameworks: Scapy, Flask, MQTT
+- Languages: Java, C++, Python, Bash, Assembly (x86/ARM)
+- Hardware: Raspberry Pi, Arduino, ESP32, custom PCB prototyping
+- Tools: Git, Wireshark, nmap, Linux
+- Frameworks: Scapy, Flask
 
 📘 Education
 B.S. Computer Engineering – Wright State University  (May 2026)
