@@ -17,8 +17,8 @@ Computer Engineering | Cybersecurity Analytics | Embedded Systems | Python / Jav
 - Frameworks: Scapy, Flask
 
 📘 Education
-B.S. Computer Engineering – Wright State University  (May 2026)
-Minors: Computer Science, Spanish | Certificate: Cybersecurity Analytics  
+- B.S. Computer Engineering – Wright State University  (May 2026)
+- Minors: Computer Science, Spanish | Certificate: Cybersecurity Analytics  
 
 <!--
 📂 Featured Work
