@@ -9,6 +9,7 @@ Computer Engineering | Cybersecurity Analytics | Embedded Systems | Python / Jav
 
 🧠 Current Projects
 - PNDC (Portable Network Defense Console): Raspberry Pi + Arduino hybrid system for real-time packet analysis and control.
+- ECLIPSE (Embedded, Compartmentalized Layer for Integrity, Protection, Supervision, and Evidence): Multi-node security system using Pi 5 for analysis, Arduino for physical events, and Pi Zero WH for control/evidence.
 
 🧩 Technical Stack
 - Languages: Java, C++, Python, Bash, Assembly (x86/ARM)
