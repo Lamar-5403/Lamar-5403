@@ -1,5 +1,5 @@
 # Isaiah (Lamar) Collins
-Computer Engineering | Cybersecurity Analytics | Embedded Systems | Python / Java / C++ / BASH
+Computer Engineering | Cybersecurity Analytics | Embedded Systems | C++ / Java / Python / BASH
 
 🎯 Focus Areas
 - Embedded Systems (Raspberry Pi, Arduino)
@@ -8,14 +8,14 @@ Computer Engineering | Cybersecurity Analytics | Embedded Systems | Python / Jav
 - Systems Integration & Automation
 
 🧠 Current Projects
-- ECLIPSE (Embedded, Compartmentalized Layer for Integrity, Protection, Supervision, and Evidence): Multi-node security system using Pi 5 for analysis, Arduino Uno for authority, and Pi Zero WH for observation/evidence.
+- [ECLIPSE](https://github.com/Lamar-5403/ECLIPSE) (Embedded, Compartmentalized Layer for Integrity, Protection, Supervision, and Evidence): Multi-node security system using Pi 5 for analysis, Arduino Uno for authority, and Pi Zero WH for observation/evidence.
 - PNDC (Portable Network Defense Console): Raspberry Pi + Arduino hybrid system for real-time packet analysis and control.
 
 🧩 Technical Stack
-- Languages: Java, C++, Python, Bash, Assembly (x86/ARM)
+- Languages: C++, Java, Python, Bash, Assembly (x86/ARM)
 - Hardware: Raspberry Pi, Arduino, ESP32, custom PCB prototyping
 - Tools: Git, Wireshark, nmap, Linux
-- Frameworks: Scapy, Flask
+- Frameworks: Scapy
 
 📘 Education
 - B.S. Computer Engineering – Wright State University  (May 2026)
